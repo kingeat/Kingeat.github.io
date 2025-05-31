@@ -1,7 +1,7 @@
 
 # Welcome to My Store
 
-Hi, I'm Duke — and this is my official site! 🎉
+Hi, I'm kingsteeit — and this is my official site! 🎉
 
 ### 🛍️ My Product
 I'm currently selling an awesome product on Gumroad. Check it out below:
@@ -12,4 +12,3 @@ I'm currently selling an awesome product on Gumroad. Check it out below:
 
 Stay tuned for more amazing content!
 
-> 🔁 Be sure to replace:
